@@ -10,16 +10,20 @@
 
 struct brickStructure
 {
-	int brick_x;
-	int brick_y;
-	int brick_dx = 100;
-	int brick_dy = 30;
-	bool show = true;
-	int red;
-	int blue;
-	int green;
+    int brick_x;
+    int brick_y;
+    int brick_dx;
+    int brick_dy;
+    bool show;
+    int red;
+    int blue;
+    int green;
 
-
+    // Constructor to initialize the members
+    brickStructure()
+        : brick_dx(100), brick_dy(30), show(true), red(0), blue(0), green(0)
+    {
+    }
 };
 
 brickStructure bricks[totalBricks];//bricks is a variable of structure.jar totalbrick sonkhok array ase 
