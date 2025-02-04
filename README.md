@@ -24,7 +24,7 @@ BlasterBall is a casual paddle-ball game, similar to DX-BALL, created using the 
 
 ## Screenshot
 
-**Main Interface:** The game menu where players can select game modes and access the highscore board.
+- **Main Interface:** The game menu where players can select game modes and access the highscore board.
 ![Main Interface](images(ss)/bb1.png)
 - **Instructions:** Detailed game instructions to guide players on controls and objectives.
 ![Instructions](images(ss)/bb2.png)
