@@ -5,7 +5,7 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Screenshot](#screenshot)
-- [How to Play](#how-to-play)
+
 
 ## Introduction
 BlasterBall is a casual paddle-ball game, similar to DX-BALL, created using the OpenGL-based iGraphics Library in C/C++. The game features two modes: **Normal** and **Extreme**, with the latter introducing exciting power-ups. There’s no time restriction, and each mode has three lives. The game ends when the player loses all lives. The game also includes a highscore board to track the top scores.
